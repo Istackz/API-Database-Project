@@ -3,7 +3,7 @@ from urllib import urlopen
 import sqlite3
 #Issac Rodriguez sprint 2
 #Take api and put data into SQL database table
-#Page 5
+#Page 5 _
 conn=sqlite3.connect('GithubJobs.db')
 c=conn.cursor()
 
